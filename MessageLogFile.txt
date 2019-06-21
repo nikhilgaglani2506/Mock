@@ -1,0 +1,102 @@
+14-11-2018,18:53:22  -- Request sent to Get Exchange messages
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Log Messages From NEST Server Finished *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Log Messages From NEST Server Finished *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  -- 14Nov2018,17:34:47  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Rule: Check price based on LTP for Buy and Sell Orders ,Current:1130.85,  Low Price Range:1097.95 High Price Range:1097.95 LTP:1097.95 for entity account-C26969 across exchange across segment across product    BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1130.85 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000001   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:35:06  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Rule: Check price based on LTP for Buy and Sell Orders ,Current:1100.00,  Low Price Range:1097.95 High Price Range:1097.95 LTP:1097.95 for entity account-C26969 across exchange across segment across product    BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1100.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000002   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:35:33  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Rule: Check price based on LTP for Buy and Sell Orders ,Current:190.00,  Low Price Range:176.80 High Price Range:176.80 LTP:176.80 for entity account-C26969 across exchange across segment across product    BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 190.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000003   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:35:51  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Margin Exceeds,Required:176.80, Available:0.00 for entity account-C26969 across exchange across segment across product Check CAC amount used    BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000004   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:40:21  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Margin Exceeds,Required:176.80, Available:0.00 for entity account-C26969 across exchange across segment across product Check CAC amount used    BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000005   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:40:58  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Margin Exceeds,Required:176.80, Available:0.00 for entity account-C26969 across exchange across segment across product Check CAC amount used    BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000006   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:42:49  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Margin Exceeds,Required:176.80, Available:0.00 for entity account-C26969 across exchange across segment across product Check CAC amount used    BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000007   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:49:53  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   ADAPTER is down   BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000008   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:51:42  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   ADAPTER is down   BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000011   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,17:52:02  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   ADAPTER is down   BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1097.95 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000013   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:08:09  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   ADAPTER is down   BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1097.95 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000019   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:10:07  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   RMS:Rule: Check price based on LTP for Buy and Sell Orders ,Current:1130.85,  Low Price Range:1097.95 High Price Range:1097.95 LTP:1097.95 for entity account-C26969 across exchange across segment across product    BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1130.85 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000020   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:10:35  --   NSE  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   ADAPTER is down   BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1097.95 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000021   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:17:52  --   NSE  LIMIT ORDER  status  Status:open   BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1097.95 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000033   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:17:52  --   NSE  LIMIT ORDER  exch cancel  Status:cancelled   Reason:   16308 : Order has been cancelled due to price freeze   BUY   RELIANCE-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 1097.95 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000033   RequestId:1        ExchangeOrderNo: 1000000000000002   
+  -- 14Nov2018,18:18:10  --   NSE  LIMIT ORDER  status  Status:open   BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000035   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:18:10  --   NSE  LIMIT ORDER  exch cancel  Status:cancelled   Reason:   16308 : Order has been cancelled due to price freeze   BUY   TATAMOTORS-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 176.80 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000035   RequestId:1        ExchangeOrderNo: 1100000000000006   
+  -- 14Nov2018,18:20:13  --   NSE  LIMIT ORDER  status  Status:open   BUY   SUNTV-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 613.75 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000037   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:20:13  --   NSE  LIMIT ORDER  exch cancel  Status:cancelled   Reason:   16308 : Order has been cancelled due to price freeze   BUY   SUNTV-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 613.75 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000037   RequestId:1        ExchangeOrderNo: 1100000000000008   
+  -- 14Nov2018,18:20:32  --   NSE  LIMIT ORDER  status  Status:open   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 535.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000038   RequestId:1        ExchangeOrderNo: 1100000000000009   
+  -- 14Nov2018,18:22:02  --   NSE  LIMIT ORDER  status  Status:open   BUY   SUNTV-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 600.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000039   RequestId:1        ExchangeOrderNo: NA   
+  -- 14Nov2018,18:22:02  --   NSE  LIMIT ORDER  exch cancel  Status:cancelled   Reason:   16308 : Order has been cancelled due to price freeze   BUY   SUNTV-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 600.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000039   RequestId:1        ExchangeOrderNo: 1100000000000010   
+  -- 14Nov2018,18:22:20  --   NSE  LIMIT ORDER  status  Status:open   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 536.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000040   RequestId:1        ExchangeOrderNo: 1100000000000011   
+  -- 14Nov2018,18:22:24  --   NSE  LIMIT ORDER  status  Status:open   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 537.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000041   RequestId:1        ExchangeOrderNo: 1100000000000012   
+  -- 14Nov2018,18:22:35  --   NSE  LIMIT ORDER  cancel  Status:cancelled   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 537.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000041   RequestId:2        ExchangeOrderNo: 1100000000000012   
+  -- 14Nov2018,18:22:35  --   NSE  LIMIT ORDER  cancel  Status:cancelled   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 536.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000040   RequestId:2        ExchangeOrderNo: 1100000000000011   
+  -- 14Nov2018,18:22:35  --   NSE  LIMIT ORDER  cancel  Status:cancelled   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 535.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000038   RequestId:2        ExchangeOrderNo: 1100000000000009   
+  -- 14Nov2018,18:28:51  --   NSE  LIMIT ORDER  status  Status:open   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 535.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000048   RequestId:1        ExchangeOrderNo: 1100000000000014   
+  -- 14Nov2018,18:29:29  --   NSE  LIMIT ORDER  status  Status:open   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 536.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000049   RequestId:1        ExchangeOrderNo: 1100000000000015   
+  -- 14Nov2018,18:50:28  --   NSE  LIMIT ORDER  cancel failure  Status:not cancelled   Rejection Reason:   error user/user_target not logged in   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 536.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000049   RequestId:2        ExchangeOrderNo: 1100000000000015   
+  -- 14Nov2018,18:50:28  --   NSE  LIMIT ORDER  cancel failure  Status:not cancelled   Rejection Reason:   error user/user_target not logged in   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 535.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000048   RequestId:2        ExchangeOrderNo: 1100000000000014   
+  -- 14Nov2018,18:50:39  --   NSE  LIMIT ORDER  cancel failure  Status:not cancelled   Rejection Reason:   error user/user_target not logged in   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 536.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000049   RequestId:3        ExchangeOrderNo: 1100000000000015   
+  -- 14Nov2018,18:50:39  --   NSE  LIMIT ORDER  cancel failure  Status:not cancelled   Rejection Reason:   error user/user_target not logged in   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 535.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000048   RequestId:3        ExchangeOrderNo: 1100000000000014   
+  -- 14Nov2018,18:51:49  --   NSE  LIMIT ORDER  cancel  Status:cancelled   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 536.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000049   RequestId:4        ExchangeOrderNo: 1100000000000015   
+  -- 14Nov2018,18:51:49  --   NSE  LIMIT ORDER  cancel  Status:cancelled   BUY   TVSMOTOR-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 535.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181114000000048   RequestId:4        ExchangeOrderNo: 1100000000000014   
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Log Messages From NEST Started *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Log Messages From NEST Started *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+14-11-2018,18:53:21  -- Request sent to Get Log Messages
+14-11-2018,18:53:12  -- Request: mrv_ext_algo_show_tree_all, Process: mrv_ext_algo ,  Error: No data. 
+14-11-2018,18:53:12  -- AMO status retrieved
+14-11-2018,18:53:12  -- Market status response received .. 
+14-11-2018,18:53:12  -- Getting Indices successful. 57 Indices are retrieved
+14-11-2018,18:53:12  -- Request sent to Get Log Messages
+14-11-2018,18:53:08  -- Request sent to get coverorder triggerperc
+14-11-2018,18:53:08  -- Request Sent To get Branch ID
+14-11-2018,18:53:08  -- Request sent to get Settlement Number
+14-11-2018,18:53:08  -- SpanCalculator.nap NestAutoPlugin hotkeys are not having descriptions
+14-11-2018,18:53:08  -- User logged in successfully
+14-11-2018,18:53:08  -- No of Trades : 0
+14-11-2018,18:53:08  -- Loading user menu...
+14-11-2018,18:53:08  -- Request sent to get Indices
+14-11-2018,18:53:08  -- Request sent to get positions.
+14-11-2018,18:53:08  -- Request sent to get dealer baskets.
+14-11-2018,18:53:08  -- Number of Baskets retrieved: 0
+14-11-2018,18:53:08  -- Request sent to get dealer baskets.
+14-11-2018,18:53:08  -- Number of Orders retrieved: 22, Number of updates received: 0
+14-11-2018,18:53:08  -- Request sent to get orders.
+14-11-2018,18:53:08  -- Number of groups retrieved: 5
+14-11-2018,18:53:08  -- Request sent to get group settings for Dealer - C26969
+14-11-2018,18:52:55  -- Number of NFO Scrips downloaded : 61955
+14-11-2018,18:52:55  -- Number of NFO Scrips loaded : 61735
+14-11-2018,18:52:46  -- Request sent to get NFO Scrips
+14-11-2018,18:52:46  -- Number of NSE Scrips downloaded : 7288
+14-11-2018,18:52:46  -- Number of NSE Scrips loaded : 7288
+14-11-2018,18:52:45  -- Request sent to get NSE Scrips
+14-11-2018,18:52:45  -- Number of CDS Scrips downloaded : 5018
+14-11-2018,18:52:45  -- Number of CDS Scrips loaded : 4977
+14-11-2018,18:52:44  -- Request sent to get CDS Scrips
+14-11-2018,18:52:44  -- Number of NCDEX Scrips downloaded : 1932
+14-11-2018,18:52:44  -- Number of NCDEX Scrips loaded : 1932
+14-11-2018,18:52:44  -- Request sent to get NCDEX Scrips
+14-11-2018,18:52:44  -- Number of MCX Scrips downloaded : 171
+14-11-2018,18:52:44  -- Number of MCX Scrips loaded : 171
+14-11-2018,18:52:44  -- Request sent to get MCX Scrips
+14-11-2018,18:52:44  -- Number of BSE Scrips downloaded : 13936
+14-11-2018,18:52:44  -- Number of BSE Scrips loaded : 13936
+14-11-2018,18:52:42  -- Request sent to get BSE Scrips
+14-11-2018,18:52:42  -- Order quantity for NFO displayed in Weights
+14-11-2018,18:52:42  -- Order quantity for CDS displayed in Weights
+14-11-2018,18:52:42  -- Order quantity for NCDEX displayed in Weights
+14-11-2018,18:52:42  -- Order quantity for MCX displayed in Weights
+14-11-2018,18:52:42  -- Number of order remarks retrieved: 0
+14-11-2018,18:52:42  -- Request: mrv_strategy_code_show_tree_all, Process: MRV Clusters ,  Error: No data. 
+14-11-2018,18:52:42  -- Request sent to get order remarks...
+14-11-2018,18:52:42  -- Number of clients retrieved: 1, client overview enabled for user
+14-11-2018,18:52:42  -- Request sent to get clients ...
+14-11-2018,18:52:42  -- Request sent for license registration...
+14-11-2018,18:52:42  -- Response received user is assigned the role - DEALER
+14-11-2018,18:52:42  -- Request sent to get user settings for user - C26969
+14-11-2018,18:52:42  -- Request sent to get T&C for the user - C26969
+14-11-2018,18:52:42  -- Response received for user peer information. See misc tab for details
+14-11-2018,18:52:42  -- Request sent to get user peer info for user - C26969
+14-11-2018,18:52:42  -- Request sent to get product types - 
+14-11-2018,18:52:42  -- Request sent to check for updates...
+14-11-2018,18:52:42  -- 6 nest files deleted successfully
+14-11-2018,18:52:41  -- Login response received, last login at - 14/11/2018 18:51:55
+14-11-2018,18:52:41  -- Logging in as C26969
+14-11-2018,18:52:36  -- Please enter password to login
+14-11-2018,18:52:34  -- **---------------------------------   Welcome To NEST Trader Version : 3.16.0.5   ---------------------------------**

@@ -1,0 +1,79 @@
+  -- 01-Dec-2018,14:13:36  --   CDS  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   Server Not Ready   BUY   USDINR18D0770CE   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 0.5025 DAY  for CLI for C26969 by C26969    NESTOrderNo:181201000000313   RequestId:1        ExchangeOrderNo: NA   
+01-12-2018,14:15:58  -- Scrips Order in List for Group : Group1 Saved
+01-12-2018,14:15:57  -- Scrips Order in List for Group : Group1 Saved
+01-Dec-2018,14:17:21  -- 01-Dec-2018,14:11:25  --   NSE  LIMIT ORDER  fill  Status:complete   BUY   ABBOTINDIA-EQ   Total QTY:10    Disc. QTY:0    Open QTY:0    Filled QTY:10    at 7454.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181201000000309   RequestId:2        ExchangeOrderNo: 1020000000022243   
+01-Dec-2018,14:17:01  -- 01-Dec-2018 14:11:25  -- Trade confirmed:   LIMIT TradeQty:10 /10 of  ABBOTINDIA-EQat  7454.00for CLI for  C26969 by C26969  NESTOrderNo: 181201000000309 Exchange:NSE ExchangeOrderNo:  1020000000022243 Trade Id: 321213 ExchTimeStamp: 14:17:21
+01-Dec-2018,14:17:01  -- 01-Dec-2018,14:11:04  --   NSE  LIMIT ORDER  modify  Status:open   BUY   ABBOTINDIA-EQ   Total QTY:10    Disc. QTY:0    Open QTY:10    Filled QTY:0    at 7454.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181201000000309   RequestId:2        ExchangeOrderNo: 1020000000022243   
+01-12-2018,14:13:01  -- Scrips Order in List for Group : eq Saved
+01-12-2018,14:13:01  -- Scrips Order in List for Group : eq Saved
+01-Dec-2018,14:16:25  -- 01-Dec-2018,14:10:28  --   NSE  LIMIT ORDER  status  Status:open   BUY   ABBOTINDIA-EQ   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 7454.00 DAY  for CLI for C26969 by C26969    NESTOrderNo:181201000000309   RequestId:1        ExchangeOrderNo: 1020000000022243   
+01-12-2018,14:12:37  -- Scrips Order in List for Group : eq Saved
+01-12-2018,14:12:36  -- Scrips Order in List for Group : eq Saved
+01-12-2018,14:12:36  -- Scrips Order in List for Group : eq Saved
+  -- 01-Dec-2018,14:09:17  --   CDS  LIMIT ORDER  failure  Status:rejected   Rejection Reason:   Server Not Ready   BUY   USDINR18D0770CE   Total QTY:1    Disc. QTY:0    Open QTY:1    Filled QTY:0    at 0.5025 DAY  for CLI for C26969 by C26969    NESTOrderNo:181201000000308   RequestId:1        ExchangeOrderNo: NA   
+01-12-2018,14:11:19  -- Scrips Order in List for Group : angel Saved
+01-12-2018,14:11:19  -- Scrips Order in List for Group : angel Saved
+01-12-2018,14:11:19  -- Scrips Order in List for Group : angel Saved
+01-12-2018,14:11:19  -- Scrips Order in List for Group : angel Saved
+01-12-2018,14:11:06  -- Request: mrv_ext_algo_show_tree_all, Process: mrv_ext_algo ,  Error: No data. 
+01-12-2018,14:11:06  -- AMO status retrieved
+01-12-2018,14:11:06  -- Market status response received .. 
+01-12-2018,14:11:06  -- Getting Indices successful. 57 Indices are retrieved
+01-12-2018,14:11:06  -- Request sent to Get Log Messages
+01-12-2018,14:11:03  -- Request sent to get coverorder triggerperc
+01-12-2018,14:11:03  -- Request Sent To get Branch ID
+01-12-2018,14:11:03  -- Request sent to get Settlement Number
+01-12-2018,14:11:03  -- SpanCalculator.nap NestAutoPlugin hotkeys are not having descriptions
+01-12-2018,14:11:03  -- User logged in successfully
+01-12-2018,14:11:03  -- No of Trades : 0
+01-12-2018,14:11:02  -- Loading user menu...
+01-12-2018,14:11:02  -- Request sent to get Indices
+01-12-2018,14:11:02  -- Number of Positions retrieved: 7
+01-12-2018,14:11:02  -- Request sent to get positions.
+01-12-2018,14:11:02  -- Request sent to get dealer baskets.
+01-12-2018,14:11:02  -- Number of Baskets retrieved: 0
+01-12-2018,14:11:02  -- Request sent to get dealer baskets.
+01-12-2018,14:11:02  -- Number of Orders retrieved: 74, Number of updates received: 0
+01-12-2018,14:11:02  -- Request sent to get orders.
+01-12-2018,14:11:02  -- Number of groups retrieved: 5
+01-12-2018,14:11:02  -- Request sent to get group settings for Dealer - C26969
+01-12-2018,14:10:51  -- Number of NFO Scrips downloaded : 55829
+01-12-2018,14:10:51  -- Number of NFO Scrips loaded : 55394
+01-12-2018,14:10:42  -- Request sent to get NFO Scrips
+01-12-2018,14:10:42  -- Number of NSE Scrips downloaded : 7307
+01-12-2018,14:10:42  -- Number of NSE Scrips loaded : 7307
+01-12-2018,14:10:41  -- Request sent to get NSE Scrips
+01-12-2018,14:10:41  -- Number of CDS Scrips downloaded : 6538
+01-12-2018,14:10:41  -- Number of CDS Scrips loaded : 6458
+01-12-2018,14:10:40  -- Request sent to get CDS Scrips
+01-12-2018,14:10:40  -- Number of NCDEX Scrips downloaded : 1898
+01-12-2018,14:10:40  -- Number of NCDEX Scrips loaded : 1898
+01-12-2018,14:10:40  -- Request sent to get NCDEX Scrips
+01-12-2018,14:10:40  -- Number of MCX Scrips downloaded : 168
+01-12-2018,14:10:40  -- Number of MCX Scrips loaded : 143
+01-12-2018,14:10:40  -- Request sent to get MCX Scrips
+01-12-2018,14:10:40  -- Number of BSE Scrips downloaded : 14004
+01-12-2018,14:10:40  -- Number of BSE Scrips loaded : 14004
+01-12-2018,14:10:38  -- Request sent to get BSE Scrips
+01-12-2018,14:10:38  -- Order quantity for NFO displayed in Weights
+01-12-2018,14:10:38  -- Order quantity for CDS displayed in Weights
+01-12-2018,14:10:38  -- Order quantity for NCDEX displayed in Weights
+01-12-2018,14:10:38  -- Order quantity for MCX displayed in Weights
+01-12-2018,14:10:38  -- Number of order remarks retrieved: 0
+01-12-2018,14:10:38  -- Request: mrv_strategy_code_show_tree_all, Process: MRV Clusters ,  Error: No data. 
+01-12-2018,14:10:38  -- Request sent to get order remarks...
+01-12-2018,14:10:38  -- Number of clients retrieved: 1, client overview enabled for user
+01-12-2018,14:10:38  -- Request sent to get clients ...
+01-12-2018,14:10:38  -- Request sent for license registration...
+01-12-2018,14:10:38  -- Response received user is assigned the role - DEALER
+01-12-2018,14:10:38  -- Request sent to get user settings for user - C26969
+01-12-2018,14:10:38  -- Request sent to get T&C for the user - C26969
+01-12-2018,14:10:38  -- Response received for user peer information. See misc tab for details
+01-12-2018,14:10:38  -- Request sent to get user peer info for user - C26969
+01-12-2018,14:10:38  -- Request sent to get product types - 
+01-12-2018,14:10:38  -- Request sent to check for updates...
+01-12-2018,14:10:38  -- 6 nest files deleted successfully
+01-12-2018,14:10:38  -- Login response received, last login at - 01/12/2018 14:05:50
+01-12-2018,14:10:38  -- Logging in as C26969
+01-12-2018,14:10:35  -- Please enter password to login
+01-12-2018,14:10:33  -- **---------------------------------   Welcome To NEST Trader Version : 3.16.0.5   ---------------------------------**
