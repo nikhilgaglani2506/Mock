@@ -1,4 +1,0 @@
-Exhg. Seg 	UserId	AccountId	Participant code	Buy/Sell	Trading Symbol	Total Qty	Price	Status	Rejection Reason	NestOrderNo	Nest UpdateTime	ExchangeOrderNo	B - W - L	OrderSource	RequestId
-NFO	N62861	N62861		BUY	BANKNIFTY18DECFUT	20	25000.00	rejected	exchange user id for the user is invalid	181102000000118	02-Nov-2018 19:07:09	NA		COMAPIA	1
-NSE	N62861	N62861		BUY	TCS-EQ	12	1913.45	rejected	exchange user id for the user is invalid	181102000000115	02-Nov-2018 19:05:03	NA		COMAPIA	1
-NSE	N62861	N62861		BUY	HDFC-EQ	1	1800.00	rejected	RMS:Rule: Turnover order level limit including CNC,Current:1800.00, limit set:0.00  for entity dealer-N62861 across exchange across segment across product 	181102000000103	02-Nov-2018 18:47:12	NA		TWS	1
