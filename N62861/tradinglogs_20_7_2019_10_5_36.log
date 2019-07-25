@@ -1,0 +1,14 @@
+10:05:24  : LOGIN DETAILS : UserId:N62861
+ScripDetail Update:1
+No Replay:0
+
+10:05:23  : Market Data Tcp Channel Connected  
+10:05:23  : Market Data Tcp Channel is not Connected  
+10:05:11  : Alert notifier Connected.  
+10:05:11  : Alert notifier is not Connected.  
+10:05:39  : REJECTION : NEW REJECTED  Buy  1  143.90  NSECM:ONGC-EQ  Error : RMS: Auto Square Off Block  
+10:05:39  : REJECTION : NEW REJECTED  Sell  1  143.90  NSECM:ONGC-EQ  Error : RMS: Auto Square Off Block  
+10:05:39  : REJECTION : NEW REJECTED  Buy  1  143.90  NSECM:ONGC-EQ  Error :  Your order has been rejected due to Insufficient Funds. Available funds - Rs. 0.00 . You require Rs. 17.99 funds to execute this order.  
+10:05:39  : REJECTION : NEW REJECTED  Buy  1  143.90  NSECM:ONGC-EQ  Error :  Your order has been rejected due to Insufficient Funds. Available funds - Rs. 0.00 . You require Rs. 143.90 funds to execute this order.  
+10:19:30  : Alert notifier Disconnected.  
+10:20:11  : STATUS : SERVER  Disconnected
